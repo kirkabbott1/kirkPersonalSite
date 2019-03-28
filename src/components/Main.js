@@ -23,7 +23,7 @@ class Main extends React.Component {
 
 
           <p>
-            <a href="https://www.linkedin.com/in/kirkabbott1/">LinkedIn</a>!
+            <a href="https://www.linkedin.com/in/kirkabbott1/">LinkedIn</a>
           </p>
 
           {close}
